@@ -1,0 +1,4 @@
+# config.py
+
+BOT_TOKEN = "8103780231:AAE76vd-Cvb1UsVl3-wdySxj0vY3v9S7BQ4"
+OPENAI_API_KEY = "sk-...R0kA"
